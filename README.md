@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zippochoiloto
 - 👀 I’m interested in coding and sports
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Golang, Docker, Kubernestes
 - 💞️ I’m looking to collaborate on ..,
 - 📫 How to reach me ...
 
